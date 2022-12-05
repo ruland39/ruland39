@@ -2,7 +2,7 @@
 # Ruland Muhammad Furqan
 ## Year 2 Computer Science with Artificial Intelligence at University of Nottingham Malaysia  
 ### https://wlo.link/@ruland39 
-Currently pursuing in UI/UX/Product Design, Frontend Web (React and Vue) and Mobile Development (Flutter)
+Currently pursuing in learning of UI/UX/Product Design, Frontend Web (React and Vue) and Mobile Development (Flutter)
 
 
 
