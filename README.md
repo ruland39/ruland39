@@ -3,10 +3,12 @@
 ## Year 2 Computer Science with Artificial Intelligence at the University of Nottingham Malaysia  
 ### Currently pursuing learning of UX Design, Frontend Web, and Mobile Development.    
 GitHub - https://github.com/ruland39  
-Linkedin - https://www.linkedin.com/in/ruland-muhammad-furqan/  
+Linkedin - https://www.linkedin.com/in/ruland-muhammad-furqan/
+Behance - https://www.behance.net/rulandfurqan1  
 Dribbble - https://dribbble.com/ruland39  
 Contra -   
 Portfolio -   
+All Links - https://zaap.bio/ruland39
 All Links - https://wlo.link/@ruland39  
 
 <!---
