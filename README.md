@@ -1,7 +1,7 @@
 ![Profile_Banner](https://user-images.githubusercontent.com/64399691/212365650-a581fae7-75dd-4731-9324-f1b4845c8df0.png)
 # Ruland Muhammad Furqan
 ## Year 2 Computer Science with Artificial Intelligence at the University of Nottingham Malaysia  
-### Currently pursuing learning of UX Design, Frontend Web (React and Vue), and Mobile Development (Flutter).    
+### Currently pursuing learning of UX Design, Frontend Web, and Mobile Development.    
 GitHub - https://github.com/ruland39  
 Linkedin - https://www.linkedin.com/in/ruland-muhammad-furqan/  
 Dribbble - https://dribbble.com/ruland39  
