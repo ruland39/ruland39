@@ -10,7 +10,7 @@
 
 👌 https://bento.me/ruland
 
-- [GitHub Pages](https://pages.github.com/)
+<!---
 - [LinkedIn](https://www.linkedin.com/in/ruland-muhammad-furqan/)
 - [GitHub](https://github.com/ruland39)
 - [Behance](https://www.behance.net/rulandfurqan1)
@@ -19,6 +19,8 @@
 - [Portfolio]()
 - [Zaap](https://zaap.bio/ruland39)
 - [wlo](https://wlo.link/@ruland39 ) 
+
+--->
 
 <!---
 ruland39/ruland39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
