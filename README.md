@@ -2,7 +2,7 @@
 # **Ruland Muhammad Furqan**  
 `Computer Science with Artificial Intelligence at the University of Nottingham Malaysia` 
   
-👋 Hi! I'm Ruland, most likely the only Ruland you will ever come across. I possess a multidisciplinary background, coupled with a deep passion for product design and crafting user-centric, intuitive designs. My technical proficiency stems from my studies as a computer science student. Embracing the philosophy of "Learning by Doing," I continually seek opportunities to learn and enhance my capabilities.
+👋 Hi! I'm Ruland, most likely the only Ruland you will ever come across. I possess a multidisciplinary background, coupled with a deep passion for product design and crafting user-centric, intuitive designs. My technical proficiency in Software Engineering, Web and Mobile Development as well as AI stems from my studies as a computer science student. Embracing the philosophy of "Learning by Doing," I continually seek opportunities to learn and enhance my capabilities.
 
 💡 I thrive on feedback and constructive discourse, as they fuel my pursuit of knowledge and skill advancement. My commitment revolves around the creation of engaging and innovative products that hold the potential to inspire hope and make a meaningful impact on people's lives. Through the medium of UI/UX design and product creation, I aspire to translate ideas into tangible solutions that enhance user experiences.
 
