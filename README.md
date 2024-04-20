@@ -8,7 +8,7 @@
 
 🤝 Looking forward to connecting and collaborating with like-minded professionals and being a part of the ever-evolving community.
 
-👌 https://bento.me/ruland
+👌 https://ruland.framer.website/
 
 <!---
 - [LinkedIn](https://www.linkedin.com/in/ruland-muhammad-furqan/)
